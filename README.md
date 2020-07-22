@@ -72,3 +72,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 <!-- setting states, modifying as you go -->
 <!-- span, input or button, how do we add our functions to it -->
 <!-- debugger in chrome -->
+<!-- showed mapping, resetting input and added online repo -->
